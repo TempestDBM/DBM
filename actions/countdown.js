@@ -1405,7 +1405,7 @@ module.exports = {
       switch (compare) {
           case 0:
               result = countdown(new Date(anoAntes, mesAntes, diaAntes, horaAntes, minutoAntes, segundoAntes));
-              countdown.setLabels("miliseg |s | m|h |d |sem |mês |ano |déc |séc | milê", "miliseg |s |m |h |d |sem |mês |anos |déc |séc |milê", "e ", ", ", " ");
+              countdown.setLabels("miliseg | s|m |h |d |sem |mês |ano |déc |séc | milê", "miliseg | s| m| h| d| sem| mês| anos| déc| séc| milê", "e ", ", ", "");
               break;
           case 1:
               result = countdown(new Date(anoAntes, mesAntes, diaAntes, horaAntes, minutoAntes, segundoAntes));
