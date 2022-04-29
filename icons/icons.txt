@@ -1,0 +1,1865 @@
+search
+\f002
+  mail
+\f003
+  signal
+\f012
+  setting
+\f013
+  home
+\f015
+  inbox
+\f01c
+  browser
+\f022
+  tag
+\f02b
+  tags
+\f02c
+  image
+\f03e
+  calendar
+\f073
+  comment
+\f075
+  shop
+\f07a
+  comments
+\f086
+  external
+\f08e
+  privacy
+\f084
+  settings
+\f085
+  comments
+\f086
+  external
+\f08e
+  trophy
+\f091
+  payment
+\f09d
+  feed
+\f09e
+  alarm
+\f0a2
+  tasks
+\f0ae
+  cloud
+\f0c2
+  lab
+\f0c3
+  mail
+\f0e0
+  dashboard
+\f0e4
+  comment
+\f0e5
+  comments
+\f0e6
+  sitemap
+\f0e8
+  idea
+\f0eb
+  alarm
+\f0f3
+  terminal
+\f120
+  code
+\f121
+  protect
+\f132
+  calendar
+\f133
+  ticket
+\f145
+  external.square
+\f14c
+  bug
+\f188
+  mail.square
+\f199
+  history
+\f1da
+  options
+\f1de
+  text.telephone
+\f1e4
+  find
+\f1e5
+  alarm.mute
+\f1f6
+  alarm.mute
+\f1f7
+  copyright
+\f1f9
+  at
+\f1fa
+  eyedropper
+\f1fb
+  paint.brush
+\f1fc
+  heartbeat
+\f21e
+  mouse.pointer
+\f245
+  hourglass.empty
+\f250
+  hourglass.start
+\f251
+  hourglass.half
+\f252
+  hourglass.end
+\f253
+  hourglass.full
+\f254
+  hand.pointer
+\f25a
+  trademark
+\f25c
+  registered
+\f25d
+  creative.commons
+\f25e
+  add.to.calendar
+\f271
+  remove.from.calendar
+\f272
+  delete.calendar
+\f273
+  checked.calendar
+\f274
+  industry
+\f275
+  shopping.bag
+\f290
+  shopping.basket
+\f291
+  hashtag
+\f292
+  percent
+\f295
+  handshake
+\f2b5
+  open.envelope
+\f2b6
+  open.envelope
+\f2b7
+  address.book
+\f2b9
+  address.book
+\f2ba
+  address.card
+\f2bb
+  address.card
+\f2bc
+  id.badge
+\f2c1
+  id.card
+\f2c2
+  id.card
+\f2c3
+  podcast
+\f2ce
+  window.maximize
+\f2d0
+  window.minimize
+\f2d1
+  window.restore
+\f2d2
+  window.close
+\f2d3
+  window.close
+\f2d4
+  
+  /* User Actions */
+  wait
+\f017
+  download
+\f019
+  repeat
+\f01e
+  refresh
+\f021
+  lock
+\f023
+  bookmark
+\f02e
+  print
+\f02f
+  write
+\f040
+  adjust
+\f042
+  theme
+\f043
+  edit
+\f044
+  external.share
+\f045
+  ban
+\f05e
+  mail.forward
+\f064
+  share
+\f064
+  expand
+\f065
+  compress
+\f066
+  unhide
+\f06e
+  hide
+\f070
+  random
+\f074
+  retweet
+\f079
+  sign.out
+\f08b
+  pin
+\f08d
+  sign.in
+\f090
+  upload
+\f093
+  call
+\f095
+  remove.bookmark
+\f097
+  call.square
+\f098
+  unlock
+\f09c
+  configure
+\f0ad
+  filter
+\f0b0
+  wizard
+\f0d0
+  undo
+\f0e2
+  exchange
+\f0ec
+  cloud.download
+\f0ed
+  cloud.upload
+\f0ee
+  reply
+\f112
+  reply.all
+\f122
+  erase
+\f12d
+  unlock.alternate
+\f13e
+  write.square
+\f14b
+  share.square
+\f14d
+  archive
+\f187
+  translate
+\f1ab
+  recycle
+\f1b8
+  send
+\f1d8
+  send
+\f1d9
+  share.alternate
+\f1e0
+  share.alternate.square
+\f1e1
+  add.to.cart
+\f217
+  in.cart
+\f218
+  add.user
+\f234
+  remove.user
+\f235
+  object.group
+\f247
+  object.ungroup
+\f248
+  clone
+\f24d
+  talk
+\f27a
+  talk
+\f27b
+  
+  /* Messages */
+  help.circle
+\f059
+  info.circle
+\f05a
+  warning.circle
+\f06a
+  warning.sign
+\f071
+  announcement
+\f0a1
+  help
+\f128
+  info
+\f129
+  warning
+\f12a
+  birthday
+\f1fd
+  help.circle
+\f29c
+  
+  /* Users */
+  user
+\f007
+  users
+\f0c0
+  doctor
+\f0f0
+  handicap
+\f193
+  student
+\f19d
+  child
+\f1ae
+  spy
+\f21b
+  user.circle
+\f2bd
+  user.circle
+\f2be
+  user
+\f2c0
+  
+  /* Gender & Sexuality */
+  female
+\f182
+  male
+\f183
+  woman
+\f221
+  man
+\f222
+  non.binary.transgender
+\f223
+  intergender
+\f224
+  transgender
+\f225
+  lesbian
+\f226
+  gay
+\f227
+  heterosexual
+\f228
+  other.gender
+\f229
+  other.gender.vertical
+\f22a
+  other.gender.horizontal
+\f22b
+  neuter
+\f22c
+  genderless
+\f22d
+  
+  /* Accessibility */
+  universal.access
+\f29a
+  wheelchair
+\f29b
+  blind
+\f29d
+  audio.description
+\f29e
+  volume.control.phone
+\f2a0
+  braille
+\f2a1
+  asl
+\f2a3
+  assistive.listening.systems
+\f2a2
+  deafness
+\f2a4
+  sign.language
+\f2a7
+  low.vision
+\f2a8
+  
+  /* View Adjustment */
+  block.layout
+\f009
+  grid.layout
+\f00a
+  list.layout
+\f00b
+  zoom
+\f00e
+  zoom.out
+\f010
+  resize.vertical
+\f07d
+  resize.horizontal
+\f07e
+  maximize
+\f0b2
+  crop
+\f125
+  
+  /* Literal Objects */
+  cocktail
+\f000
+  road
+\f018
+  flag
+\f024
+  book
+\f02d
+  gift
+\f06b
+  leaf
+\f06c
+  fire
+\f06d
+  plane
+\f072
+  magnet
+\f076
+  lemon
+\f094
+  world
+\f0ac
+  travel
+\f0b1
+  shipping
+\f0d1
+  money
+\f0d6
+  legal
+\f0e3
+  lightning
+\f0e7
+  umbrella
+\f0e9
+  treatment
+\f0f1
+  suitcase
+\f0f2
+  bar
+\f0fc
+  flag
+\f11d
+  flag.checkered
+\f11e
+  puzzle
+\f12e
+  fire.extinguisher
+\f134
+  rocket
+\f135
+  anchor
+\f13d
+  bullseye
+\f140
+  sun
+\f185
+  moon
+\f186
+  fax
+\f1ac
+  life.ring
+\f1cd
+  bomb
+\f1e2
+  soccer
+\f1e3
+  calculator
+\f1ec
+  diamond
+\f219
+  sticky.note
+\f249
+  sticky.note
+\f24a
+  law
+\f24e
+  hand.peace
+\f25b
+  hand.rock
+\f255
+  hand.paper
+\f256
+  hand.scissors
+\f257
+  hand.lizard
+\f258
+  hand.spock
+\f259
+  tv
+\f26c
+  thermometer.full
+\f2c7
+  thermometer.three.quarters
+\f2c8
+  thermometer.half
+\f2c9
+  thermometer.quarter
+\f2ca
+  thermometer.empty
+\f2cb
+  shower
+\f2cc
+  bathtub
+\f2cd
+  snowflake
+\f2dc
+  
+  /* Shapes */
+  crosshairs
+\f05b
+  asterisk
+\f069
+  square
+\f096
+  certificate
+\f0a3
+  square
+\f0c8
+  quote.left
+\f10d
+  quote.right
+\f10e
+  spinner
+\f110
+  circle
+\f111
+  ellipsis.horizontal
+\f141
+  ellipsis.vertical
+\f142
+  cube
+\f1b2
+  cubes
+\f1b3
+  circle.notched
+\f1ce
+  circle.thin
+\f1db
+  
+  /* Item Selection */
+  checkmark
+\f00c
+  remove
+\f00d
+  checkmark.box
+\f046
+  move
+\f047
+  add.circle
+\f055
+  minus.circle
+\f056
+  remove.circle
+\f057
+  check.circle
+\f058
+  remove.circle
+\f05c
+  check.circle
+\f05d
+  plus
+\f067
+  minus
+\f068
+  add.square
+\f0fe
+  radio
+\f10c
+  minus.square
+\f146
+  minus.square
+\f147
+  check.square
+\f14a
+  selected.radio
+\f192
+  plus.square
+\f196
+  toggle.off
+\f204
+  toggle.on
+\f205
+  
+  /* Media */
+  film
+\f008
+  sound
+\f025
+  photo
+\f030
+  bar.chart
+\f080
+  camera.retro
+\f083
+  newspaper
+\f1ea
+  area.chart
+\f1fe
+  pie.chart
+\f200
+  line.chart
+\f201
+  
+  /* Pointers */
+  arrow.circle.outline.down
+\f01a
+  arrow.circle.outline.up
+\f01b
+  chevron.left
+\f053
+  chevron.right
+\f054
+  arrow.left
+\f060
+  arrow.right
+\f061
+  arrow.up
+\f062
+  arrow.down
+\f063
+  chevron.up
+\f077
+  chevron.down
+\f078
+  pointing.right
+\f0a4
+  pointing.left
+\f0a5
+  pointing.up
+\f0a6
+  pointing.down
+\f0a7
+  arrow.circle.left
+\f0a8
+  arrow.circle.right
+\f0a9
+  arrow.circle.up
+\f0aa
+  arrow.circle.down
+\f0ab
+  caret.down
+\f0d7
+  caret.up
+\f0d8
+  caret.left
+\f0d9
+  caret.right
+\f0da
+  angle.double.left
+\f100
+  angle.double.right
+\f101
+  angle.double.up
+\f102
+  angle.double.down
+\f103
+  angle.left
+\f104
+  angle.right
+\f105
+  angle.up
+\f106
+  angle.down
+\f107
+  chevron.circle.left
+\f137
+  chevron.circle.right
+\f138
+  chevron.circle.up
+\f139
+  chevron.circle.down
+\f13a
+  toggle.down
+\f150
+  toggle.up
+\f151
+  toggle.right
+\f152
+  long.arrow.down
+\f175
+  long.arrow.up
+\f176
+  long.arrow.left
+\f177
+  long.arrow.right
+\f178
+  arrow.circle.outline.right
+\f18e
+  arrow.circle.outline.left
+\f190
+  toggle.left
+\f191
+  
+  /* Mobile */
+  tablet
+\f10a
+  mobile
+\f10b
+  battery.full
+\f240
+  battery.high
+\f241
+  battery.medium
+\f242
+  battery.low
+\f243
+  battery.empty
+\f244
+  
+  /* Computer */
+  power
+\f011
+  trash
+\f014
+  disk
+\f0a0
+  desktop
+\f108
+  laptop
+\f109
+  game
+\f11b
+  keyboard
+\f11c
+  plug
+\f1e6
+  
+  /* File System */
+  trash
+\f1f8
+  file
+\f016
+  folder
+\f07b
+  folder.open
+\f07c
+  file.text
+\f0f6
+  folder
+\f114
+  folder.open
+\f115
+  level.up
+\f148
+  level.down
+\f149
+  file
+\f15b
+  file.text
+\f15c
+  file.pdf
+\f1c1
+  file.word
+\f1c2
+  file.excel
+\f1c3
+  file.powerpoint
+\f1c4
+  file.image
+\f1c5
+  file.archive
+\f1c6
+  file.audio
+\f1c7
+  file.video
+\f1c8
+  file.code
+\f1c9
+  
+  /* Technologies */
+  qrcode
+\f029
+  barcode
+\f02a
+  rss
+\f09e
+  fork
+\f126
+  html5
+\f13b
+  css3
+\f13c
+  rss.square
+\f143
+  openid
+\f19b
+  database
+\f1c0
+  wifi
+\f1eb
+  server
+\f233
+  usb
+\f287
+  bluetooth
+\f293
+  bluetooth.alternative
+\f294
+  microchip
+\f2db
+  
+  /* Rating */
+  heart
+\f004
+  star
+\f005
+  empty.star
+\f006
+  thumbs.outline.up
+\f087
+  thumbs.outline.down
+\f088
+  star.half
+\f089
+  empty.heart
+\f08a
+  smile
+\f118
+  frown
+\f119
+  meh
+\f11a
+  star.half.empty
+\f123
+  thumbs.up
+\f164
+  thumbs.down
+\f165
+  
+  /* Audio */
+  music
+\f001
+  video.play
+\f01d
+  volume.off
+\f026
+  volume.down
+\f027
+  volume.up
+\f028
+  record
+\f03d
+  step.backward
+\f048
+  fast.backward
+\f049
+  backward
+\f04a
+  play
+\f04b
+  pause
+\f04c
+  stop
+\f04d
+  forward
+\f04e
+  fast.forward
+\f050
+  step.forward
+\f051
+  eject
+\f052
+  unmute
+\f130
+  mute
+\f131
+  video.play
+\f144
+  closed.captioning
+\f20a
+  pause.circle
+\f28b
+  pause.circle
+\f28c
+  stop.circle
+\f28d
+  stop.circle
+\f28e
+  
+  /* Map, Locations, & Transportation */
+  marker
+\f041
+  coffee
+\f0f4
+  food
+\f0f5
+  building
+\f0f7
+  hospital
+\f0f8
+  emergency
+\f0f9
+  first.aid
+\f0fa
+  military
+\f0fb
+  h
+\f0fd
+  location.arrow
+\f124
+  compass
+\f14e
+  space.shuttle
+\f197
+  university
+\f19c
+  building
+\f1ad
+  paw
+\f1b0
+  spoon
+\f1b1
+  car
+\f1b9
+  taxi
+\f1ba
+  tree
+\f1bb
+  bicycle
+\f206
+  bus
+\f207
+  ship
+\f21a
+  motorcycle
+\f21c
+  street.view
+\f21d
+  hotel
+\f236
+  train
+\f238
+  subway
+\f239
+  map.pin
+\f276
+  map.signs
+\f277
+  map
+\f278
+  map
+\f279
+  
+  /* Tables */
+  table
+\f0ce
+  columns
+\f0db
+  sort
+\f0dc
+  sort.descending
+\f0dd
+  sort.ascending
+\f0de
+  sort.alphabet.ascending
+\f15d
+  sort.alphabet.descending
+\f15e
+  sort.content.ascending
+\f160
+  sort.content.descending
+\f161
+  sort.numeric.ascending
+\f162
+  sort.numeric.descending
+\f163
+  
+  /* Text Editor */
+  font
+\f031
+  bold
+\f032
+  italic
+\f033
+  text.height
+\f034
+  text.width
+\f035
+  align.left
+\f036
+  align.center
+\f037
+  align.right
+\f038
+  align.justify
+\f039
+  list
+\f03a
+  outdent
+\f03b
+  indent
+\f03c
+  linkify
+\f0c1
+  cut
+\f0c4
+  copy
+\f0c5
+  attach
+\f0c6
+  save
+\f0c7
+  content
+\f0c9
+  unordered.list
+\f0ca
+  ordered.list
+\f0cb
+  strikethrough
+\f0cc
+  underline
+\f0cd
+  paste
+\f0ea
+  unlinkify
+\f127
+  superscript
+\f12b
+  subscript
+\f12c
+  header
+\f1dc
+  paragraph
+\f1dd
+  text.cursor
+\f246
+  
+  /* Currency */
+  euro
+\f153
+  pound
+\f154
+  dollar
+\f155
+  rupee
+\f156
+  yen
+\f157
+  ruble
+\f158
+  won
+\f159
+  bitcoin
+\f15a
+  lira
+\f195
+  shekel
+\f20b
+  
+  /* Payment Options */
+  paypal
+\f1ed
+  google.wallet
+\f1ee
+  visa
+\f1f0
+  mastercard
+\f1f1
+  discover
+\f1f2
+  american.express
+\f1f3
+  paypal.card
+\f1f4
+  stripe
+\f1f5
+  japan.credit.bureau
+\f24b
+  diners.club
+\f24c
+  credit.card.alternative
+\f283
+  /* Networks and Websites*/
+  twitter.square
+\f081
+  facebook.square
+\f082
+  linkedin.square
+\f08c
+  github.square
+\f092
+  twitter
+\f099
+  facebook.f
+\f09a
+  github
+\f09b
+  pinterest
+\f0d2
+  pinterest.square
+\f0d3
+  google.plus.square
+\f0d4
+  google.plus
+\f0d5
+  linkedin
+\f0e1
+  github.alternate
+\f113
+  maxcdn
+\f136
+  youtube.square
+\f166
+  youtube
+\f167
+  xing
+\f168
+  xing.square
+\f169
+  youtube.play
+\f16a
+  dropbox
+\f16b
+  stack.overflow
+\f16c
+  instagram
+\f16d
+  flickr
+\f16e
+  adn
+\f170
+  bitbucket
+\f171
+  bitbucket.square
+\f172
+  tumblr
+\f173
+  tumblr.square
+\f174
+  apple
+\f179
+  windows
+\f17a
+  android
+\f17b
+  linux
+\f17c
+  dribble
+\f17d
+  skype
+\f17e
+  foursquare
+\f180
+  trello
+\f181
+  gittip
+\f184
+  vk
+\f189
+  weibo
+\f18a
+  renren
+\f18b
+  pagelines
+\f18c
+  stack.exchange
+\f18d
+  vimeo.square
+\f194
+  slack
+\f198
+  wordpress
+\f19a
+  yahoo
+\f19e
+  google
+\f1a0
+  reddit
+\f1a1
+  reddit.square
+\f1a2
+  stumbleupon.circle
+\f1a3
+  stumbleupon
+\f1a4
+  delicious
+\f1a5
+  digg
+\f1a6
+  pied.piper
+\f1a7
+  pied.piper.alternate
+\f1a8
+  drupal
+\f1a9
+  joomla
+\f1aa
+  behance
+\f1b4
+  behance.square
+\f1b5
+  steam
+\f1b6
+  steam.square
+\f1b7
+  spotify
+\f1bc
+  deviantart
+\f1bd
+  soundcloud
+\f1be
+  vine
+\f1ca
+  codepen
+\f1cb
+  jsfiddle
+\f1cc
+  rebel
+\f1d0
+  empire
+\f1d1
+  git.square
+\f1d2
+  git
+\f1d3
+  hacker.news
+\f1d4
+  tencent.weibo
+\f1d5
+  qq
+\f1d6
+  wechat
+\f1d7
+  slideshare
+\f1e7
+  twitch
+\f1e8
+  yelp
+\f1e9
+  lastfm
+\f202
+  lastfm.square
+\f203
+  ioxhost
+\f208
+  angellist
+\f209
+  meanpath
+\f20c
+  buysellads
+\f20d
+  connectdevelop
+\f20e
+  dashcube
+\f210
+  forumbee
+\f211
+  leanpub
+\f212
+  sellsy
+\f213
+  shirtsinbulk
+\f214
+  simplybuilt
+\f215
+  skyatlas
+\f216
+  facebook
+\f230
+  pinterest
+\f231
+  whatsapp
+\f232
+  viacoin
+\f237
+  medium
+\f23a
+  y.combinator
+\f23b
+  optinmonster
+\f23c
+  opencart
+\f23d
+  expeditedssl
+\f23e
+  gg
+\f260
+  gg.circle
+\f261
+  tripadvisor
+\f262
+  odnoklassniki
+\f263
+  odnoklassniki.square
+\f264
+  pocket
+\f265
+  wikipedia
+\f266
+  safari
+\f267
+  chrome
+\f268
+  firefox
+\f269
+  opera
+\f26a
+  internet.explorer
+\f26b
+  contao
+\f26d
+  \35 00px
+\f26e
+  amazon
+\f270
+  houzz
+\f27c
+  vimeo
+\f27d
+  black.tie
+\f27e
+  fonticons
+\f280
+  reddit.alien
+\f281
+  microsoft.edge
+\f282
+  codiepie
+\f284
+  modx
+\f285
+  fort.awesome
+\f286
+  product.hunt
+\f288
+  mixcloud
+\f289
+  scribd
+\f28a
+  gitlab
+\f296
+  wpbeginner
+\f297
+  wpforms
+\f298
+  envira.gallery
+\f299
+  glide
+\f2a5
+  glide.g
+\f2a6
+  viadeo
+\f2a9
+  viadeo.square
+\f2aa
+  snapchat
+\f2ab
+  snapchat.ghost
+\f2ac
+  snapchat.square
+\f2ad
+  pied.piper.hat
+\f2ae
+  first.order
+\f2b0
+  yoast
+\f2b1
+  themeisle
+\f2b2
+  google.plus.circle
+\f2b3
+  font.awesome
+\f2b4
+  linode
+\f2b8
+  quora
+\f2c4
+  free.code.camp
+\f2c5
+  telegram
+\f2c6
+  bandcamp
+\f2d5
+  grav
+\f2d6
+  etsy
+\f2d7
+  imdb
+\f2d8
+  ravelry
+\f2d9
+  eercast
+\f2da
+  superpowers
+\f2dd
+  wpexplorer
+\f2de
+  meetup
+\f2e0
+  
+  
+  /*******************************
+              Aliases
+  *******************************/
+  
+  like
+\f004
+  favorite
+\f005
+  video
+\f008
+  check
+\f00c
+  close
+\f00d
+  cancel
+\f00d
+  delete
+\f00d
+  x
+\f00d
+  zoom.in
+\f00e
+  magnify
+\f00e
+  shutdown
+\f011
+  clock
+\f017
+  time
+\f017
+  play.circle
+\f01d
+  headphone
+\f025
+  camera
+\f030
+  video.camera
+\f03d
+  picture
+\f03e
+  pencil
+\f040
+  compose
+\f040
+  point
+\f041
+  tint
+\f043
+  signup
+\f044
+  plus.circle
+\f055
+  question.circle
+\f059
+  dont
+\f05e
+  minimize
+\f066
+  add
+\f067
+  exclamation.circle
+\f06a
+  attention
+\f06a
+  eye
+\f06e
+  exclamation.triangle
+\f071
+  shuffle
+\f074
+  chat
+\f075
+  cart
+\f07a
+  shopping.cart
+\f07a
+  bar.graph
+\f080
+  key
+\f084
+  cogs
+\f085
+  discussions
+\f086
+  like
+\f087
+  dislike
+\f088
+  heart
+\f08a
+  log.out
+\f08b
+  thumb.tack
+\f08d
+  winner
+\f091
+  phone
+\f095
+  bookmark
+\f097
+  phone.square
+\f098
+  credit.card
+\f09d
+  hdd
+\f0a0
+  bullhorn
+\f0a1
+  bell
+\f0a2
+  hand.outline.right
+\f0a4
+  hand.outline.left
+\f0a5
+  hand.outline.up
+\f0a6
+  hand.outline.down
+\f0a7
+  globe
+\f0ac
+  wrench
+\f0ad
+  briefcase
+\f0b1
+  group
+\f0c0
+  linkify
+\f0c1
+  chain
+\f0c1
+  flask
+\f0c3
+  sidebar
+\f0c9
+  bars
+\f0c9
+  list.ul
+\f0ca
+  list.ol
+\f0cb
+  numbered.list
+\f0cb
+  magic
+\f0d0
+  truck
+\f0d1
+  currency
+\f0d6
+  triangle.down
+\f0d7
+  dropdown
+\f0d7
+  triangle.up
+\f0d8
+  triangle.left
+\f0d9
+  triangle.right
+\f0da
+  envelope
+\f0e0
+  conversation
+\f0e6
+  rain
+\f0e9
+  clipboard
+\f0ea
+  lightbulb
+\f0eb
+  bell
+\f0f3
+  ambulance
+\f0f9
+  medkit
+\f0fa
+  fighter.jet
+\f0fb
+  beer
+\f0fc
+  plus.square
+\f0fe
+  computer
+\f108
+  circle
+\f10c
+  gamepad
+\f11b
+  star.half.full
+\f123
+  broken.chain
+\f127
+  question
+\f128
+  exclamation
+\f12a
+  eraser
+\f12d
+  microphone
+\f130
+  microphone.slash
+\f131
+  shield
+\f132
+  target
+\f140
+  play.circle
+\f144
+  pencil.square
+\f14b
+  eur
+\f153
+  gbp
+\f154
+  usd
+\f155
+  inr
+\f156
+  cny
+\f157
+  rmb
+\f157
+  jpy
+\f157
+  rouble
+\f158
+  rub
+\f158
+  krw
+\f159
+  btc
+\f15a
+  gratipay
+\f184
+  zip
+\f187
+  dot.circle
+\f192
+  try
+\f195
+  graduation
+\f19d
+  circle
+\f1db
+  sliders
+\f1de
+  weixin
+\f1d7
+  tty
+\f1e4
+  teletype
+\f1e4
+  binoculars
+\f1e5
+  power.cord
+\f1e6
+  wi-fi
+\f1eb
+  visa.card
+\f1f0
+  mastercard.card
+\f1f1
+  discover.card
+\f1f2
+  amex
+\f1f3
+  american.express.card
+\f1f3
+  stripe.card
+\f1f5
+  bell.slash
+\f1f6
+  bell.slash
+\f1f7
+  area.graph
+\f1fe
+  pie.graph
+\f200
+  line.graph
+\f201
+  cc
+\f20a
+  sheqel
+\f20b
+  ils
+\f20b
+  plus.cart
+\f217
+  arrow.down.cart
+\f218
+  detective
+\f21b
+  venus
+\f221
+  mars
+\f222
+  mercury
+\f223
+  intersex
+\f224
+  venus.double
+\f226
+  female.homosexual
+\f226
+  mars.double
+\f227
+  male.homosexual
+\f227
+  venus.mars
+\f228
+  mars.stroke
+\f229
+  mars.alternate
+\f229
+  mars.vertical
+\f22a
+  mars.stroke.vertical
+\f22a
+  mars.horizontal
+\f22b
+  mars.stroke.horizontal
+\f22b
+  asexual
+\f22d
+  facebook.official
+\f230
+  user.plus
+\f234
+  user.times
+\f235
+  user.close
+\f235
+  user.cancel
+\f235
+  user.delete
+\f235
+  user.x
+\f235
+  bed
+\f236
+  yc
+\f23b
+  ycombinator
+\f23b
+  battery.four
+\f240
+  battery.three
+\f241
+  battery.three.quarters
+\f241
+  battery.two
+\f242
+  battery.half
+\f242
+  battery.one
+\f243
+  battery.quarter
+\f243
+  battery.zero
+\f244
+  i.cursor
+\f246
+  jcb
+\f24b
+  japan.credit.bureau.card
+\f24b
+  diners.club.card
+\f24c
+  balance
+\f24e
+  hourglass
+\f250
+  hourglass.zero
+\f250
+  hourglass.one
+\f251
+  hourglass.two
+\f252
+  hourglass.three
+\f253
+  hourglass.four
+\f254
+  grab
+\f255
+  hand.victory
+\f25b
+  tm
+\f25c
+  r.circle
+\f25d
+  television
+\f26c
+  five.hundred.pixels
+\f26e
+  calendar.plus
+\f271
+  calendar.minus
+\f272
+  calendar.times
+\f273
+  calendar.check
+\f274
+  factory
+\f275
+  commenting
+\f27a
+  commenting
+\f27b
+  edge
+\f282
+  ms.edge
+\f282
+  wordpress.beginner
+\f297
+  wordpress.forms
+\f298
+  envira
+\f299
+  question.circle
+\f29c
+  assistive.listening.devices
+\f2a2
+  als
+\f2a2
+  ald
+\f2a2
+  asl.interpreting
+\f2a3
+  deaf
+\f2a4
+  american.sign.language.interpreting
+\f2a3
+  hard.of.hearing
+\f2a4
+  signing
+\f2a7
+  new.pied.piper
+\f2ae
+  theme.isle
+\f2b2
+  google.plus.official
+\f2b3
+  fa
+\f2b4
+  vcard
+\f2bb
+  vcard
+\f2bc
+  drivers
+\f2c2
+  drivers.license
+\f2c3
+  thermometer
+\f2c7
+  s15
+\f2cd
+  bath
+\f2cd
+  times.rectangle
+\f2d3
+  times.rectangle
+\f2d4
