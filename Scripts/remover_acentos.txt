@@ -1,0 +1,52 @@
+var resposta = tempVars("resposta");
+resposta = resposta.toString().toLowerCase();
+var respostacerta = tempVars("pais");
+respostacerta = respostacerta.toString().toLowerCase();
+
+var acentos = [
+            "ç",
+            "á",
+            "à",
+            "ã",
+            "õ",
+            "ñ",
+            "é",
+            "ê",
+            "è",
+            "ó",
+            "ò",
+            "ô",
+            "â",
+          ]
+
+var sub = [
+            "c",
+            "a",
+            "a",
+            "a",
+            "o",
+            "n",
+            "e",
+            "e",
+            "e",
+            "o",
+            "o",
+            "o",
+            "a",
+          ]
+
+for(var loop = 0; loop < 3; loop++) {
+for(var i = 0; i < acentos.length; i++) {
+            resposta = resposta.replace(acentos[i], sub[i]);
+            respostacerta = respostacerta.replace(acentos[i], sub[i])
+}}
+
+var acerto  = 0;
+
+if(resposta == respostacerta) {
+  acerto = 1;
+} else {
+ acerto = 0;
+}
+
+acerto = acerto;
