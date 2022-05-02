@@ -1,6 +1,6 @@
 var resposta = tempVars("resposta");
 resposta = resposta.toString().toLowerCase();
-var respostacerta = tempVars("pais");
+var respostacerta = tempVars("resposta-pergunta");
 respostacerta = respostacerta.toString().toLowerCase();
 
 var acentos = [
@@ -17,6 +17,7 @@ var acentos = [
             "ò",
             "ô",
             "â",
+            "-",
           ]
 
 var sub = [
@@ -33,6 +34,7 @@ var sub = [
             "o",
             "o",
             "a",
+            " ",
           ]
 
 for(var loop = 0; loop < 3; loop++) {
@@ -46,7 +48,7 @@ var acerto  = 0;
 if(resposta == respostacerta) {
   acerto = 1;
 } else {
- acerto = 0;
+  acerto = 0;
 }
 
 acerto = acerto;
