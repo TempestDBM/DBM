@@ -48,11 +48,11 @@ var sub = [
             "n",
             " ",
           ]
-
+for(var loop = 0; loop < 3; loop++) {
 for(var i = 0; i < acentos.length; i++) {
-            resposta = resposta.replace(/acentos[i]/gi, sub[i]);
-            respostacerta = respostacerta.replace(/acentos[i]/gi, sub[i])
-}
+            resposta = resposta.replace(acentos[i], sub[i]);
+            respostacerta = respostacerta.replace(acentos[i], sub[i])
+}}
 
 var acerto  = 0;
 
