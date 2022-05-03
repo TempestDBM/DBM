@@ -4,44 +4,55 @@ var respostacerta = tempVars("resposta-pergunta");
 respostacerta = respostacerta.toString().toLowerCase();
 
 var acentos = [
-            "ç",
             "á",
             "à",
             "ã",
             "â",
-            "õ",
+            "é",
+            "è",
+            "ê",
+            "í",
+            "ì",
+            "î",
             "ó",
             "ò",
+            "õ",
             "ô",
+            "ú",
+            "ù",
+            "û",
+            "ç",
             "ñ",
-            "é",
-            "ê",
-            "è",
             "-",
           ]
 
 var sub = [
+            "a",
+            "a",
+            "a",
+            "a",             
+            "e",
+            "e",
+            "e",
+            "i",
+            "i",
+            "i",
+            "o",
+            "o",
+            "o",
+            "o",
+            "u",
+            "u",
+            "u",
             "c",
-            "a",
-            "a",
-            "a",
-            "a",
-            "o",
-            "o",
-            "o",
-            "o",
             "n",
-            "e",
-            "e",
-            "e",
             " ",
           ]
 
-for(var loop = 0; loop < 3; loop++) {
 for(var i = 0; i < acentos.length; i++) {
-            resposta = resposta.replace(acentos[i], sub[i]);
-            respostacerta = respostacerta.replace(acentos[i], sub[i])
-}}
+            resposta = resposta.replace(/acentos[i]/gi, sub[i]);
+            respostacerta = respostacerta.replace(/acentos[i]/gi, sub[i])
+}
 
 var acerto  = 0;
 
