@@ -53,13 +53,3 @@ for(var i = 0; i < acentos.length; i++) {
             resposta = resposta.replace(acentos[i], sub[i]);
             respostacerta = respostacerta.replace(acentos[i], sub[i])
 }}
-
-var acerto  = 0;
-
-if(resposta == respostacerta) {
-  acerto = 1;
-} else {
-  acerto = 0;
-}
-
-acerto = acerto;
