@@ -8,7 +8,7 @@ module.exports = {
   
     variableStorage(data, varType) {
       if (parseInt(data.storage, 10) !== varType) return;
-      return [data.varName, 'Date'];
+      return [data.varName, 'Text'];
     },
   
     fields: ['sql', 'sub', 'storage', 'varName'],
@@ -21,9 +21,9 @@ module.exports = {
     <input id="sql" class="round" type="text" placeholder="Ex: [object object]">
   </div>
   <div style="float: left; width: 70%; padding-top: 10px; padding-bottom: 15px;">
-  Substituir por:
-  <input id="sub" class="round" type="text" placeholder="Ex: 1 ou Teste">
-</div>
+    Substituir por:
+    <input id="sub" class="round" type="text" placeholder="Ex: 1 ou Teste">
+  </div>
   <div style="float: left; width: 35%; padding-top: 8px;">
     Store Result In:<br>
     <select id="storage" class="round" onchange="glob.variableChange(this, 'varNameContainer')">
