@@ -8,7 +8,7 @@ module.exports = {
   
     variableStorage(data, varType) {
       if (parseInt(data.storage, 10) !== varType) return;
-      return [data.varName, 'Date'];
+      return [data.varName, 'Text'];
     },
   
     fields: ['number', 'palavra','storage', 'varName'],
