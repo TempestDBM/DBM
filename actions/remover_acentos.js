@@ -1,6 +1,14 @@
 module.exports = {
-    name: 'Remover acentos',
+    name: 'Remover Acentos',
     section: 'Other Stuff',
+
+    meta: { 
+      version: "2.1.2", 
+      preciseCheck: true, 
+      author: "Tempest#8741", 
+      authorUrl: null, 
+      downloadUrl: "https://github.com/TempestDBM"
+    },
 
     subtitle(data) {
       return `Remover`;
@@ -17,8 +25,8 @@ module.exports = {
       return `
   <span>Ação feita por: Tempest#8741</span>
   <div style="float: left; width: 70%; padding-top: 10px; padding-bottom: 15px;">
-    Palavra:
-    <input id="palavra" class="round" type="text" placeholder="Ex: Áá">
+    <span class="dbminputlabel">Palavra:</span>
+    <textarea id="story" name="story" rows="5" cols="33">Ááàãâ...</textarea>
   </div>
   <div style="padding-top: 8px; width: 70%;">
     <span class="dbminputlabel">Remover espaços:</span><br>
@@ -80,47 +88,9 @@ module.exports = {
         "û",
         "ç",
         "ñ",
-        "Á",
-        "À",
-        "Ã",
-        "Â",
-        "É",
-        "È",
-        "Ê",
-        "Í",
-        "Ì",
-        "Î",
-        "Ó",
-        "Ò",
-        "Õ",
-        "Ô",
-        "Ú",
-        "Ù",
-        "Û",
-        "Ç",
-        "Ñ",
       ]
 
      var substituir = [
-        "a",
-        "a",
-        "a",
-        "a",
-        "e",
-        "e",
-        "e",
-        "i",
-        "i",
-        "i",
-        "o",
-        "o",
-        "o",
-        "o",
-        "u",
-        "u",
-        "u",
-        "c",
-        "n",
         "a",
         "a",
         "a",
@@ -156,13 +126,59 @@ module.exports = {
           case 0:
             break;
           case 1:
-            palavra = palavra.toString().toLowerCase(); 
+          var caps = [
+            "Á",
+            "À",
+            "Ã",
+            "Â",
+            "É",
+            "È",
+            "Ê",
+            "Í",
+            "Ì",
+            "Î",
+            "Ó",
+            "Ò",
+            "Õ",
+            "Ô",
+            "Ú",
+            "Ù",
+            "Û",
+            "Ç",
+            "Ñ",
+          ]
+
+          var capsSub = [
+            "A",
+            "A",
+            "A",
+            "A",
+            "E",
+            "E",
+            "E",
+            "I",
+            "I",
+            "I",
+            "O",
+            "O",
+            "O",
+            "O",
+            "U",
+            "U",
+            "U",
+            "C",
+            "N",
+          ]
+
+          for(var i = 0; i <= caps.length; i++) {
+            acentos.push(caps[i]);
+            substituir.push(capsSub[i]);
+          }
       }
 
-      for(var loop = 0; loop < 10; loop++) {
-        for(var i = 0; i < acentos.length; i++) {
-                palavra = palavra.replace(acentos[i], substituir[i])
-        }
+
+      for(var i = 0; i < acentos.length; i++) {
+          palavra = palavra.replaceAll(acentos[i], substituir[i]);
       }
 
       result = palavra;
