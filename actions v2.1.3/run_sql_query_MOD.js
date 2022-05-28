@@ -2,7 +2,7 @@ module.exports = {
   name: 'Run SQL Query',
   section: 'Other Stuff',
   meta: {
-    version: '2.1.1',
+    version: '2.1.3',
     preciseCheck: false,
     author: 'DBM Mods',
     authorUrl: 'https://github.com/dbm-network/mods',
@@ -53,6 +53,7 @@ module.exports = {
     'store_source_conn_storage',
     'store_source_conn_varName',
     'debugMode',
+    'sub',
   ],
 
   html(_isEvent, data) {
@@ -170,6 +171,10 @@ module.exports = {
           <input id="store_source_conn_varName" class="round" type="text" />
         </div>
       </div><br /><br /><br /><br /><br />
+      <div>
+        Substituir Object SQL por:
+        <input class="round" type="text" id="sub" placeholder="0 ou Teste" style="width: 90%;">
+      </div><br><br>
       <div style="float: left; width: 35%;">
         Debug Mode: (Enable to see verbose printing in the bot console)<br />
         <select id="debugMode" class="round">
@@ -501,7 +506,12 @@ module.exports = {
                   );
                   console.log(`Example \${${output}("${varName}")[key].path} or use the json path box in the mod UI.`);
                 }
-                const out = jsonOut || results;
+                var out = jsonOut || results;
+                if(this.evalMessage(data.sub, cache).length > 0) {
+                  if(out == "[object object]" || out == "[]" || out == " " || out == "" || out == null) {
+                    out = this.evalMessage(data.sub, cache);
+                  }
+                }
                 this.storeValue(stringifyOutput ? JSON.stringify(out) : out, storage, varName, cache);
                 this.callNextAction(cache);
               })
