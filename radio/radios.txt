@@ -1,0 +1,22 @@
+Url de rádios:
+
+Hunter.fm:
+
+Hunter.fm Sertanejo: https://hls.hunter.fm/sertanejo/64.m3u8
+Hunter.fm Pop: https://hls.hunter.fm/pop/64.m3u8
+Hunter.fm Gospel: https://hls.hunter.fm/gospel/64.m3u8
+Hunter.fm Rock: https://hls.hunter.fm/rock/64.m3u8
+Hunter.fm Pop2k: https://hls.hunter.fm/pop2k/64.m3u8
+Hunter.fm 80's Retro: https://hls.hunter.fm/80s/64.m3u8
+Hunter.fm Smash: https://hls.hunter.fm/smash/64.m3u8
+
+Jovem Pan:
+
+Jovem Pan SP: https://24083.live.streamtheworld.com/JP_SP_AMAAC.aac?1653845886462
+Jovem Pan SC: https://azuracast.secnet.com.br/radio/8060/radio.mp3?1653845927207
+Jovem Pan BA: http://servidor26.brlogic.com:8034/live?1653846097942
+
+Antena 1:
+
+Antena 1 SP: https://antenaone.crossradio.com.br/stream/1;?1653846226565
+Antena 1 RJ: http://a1rj.streams.com.br:7801/stream?1653846359620
