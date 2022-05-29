@@ -2,7 +2,7 @@ module.exports = {
   name: 'Store Bot Client Info',
   section: 'Bot Client Control',
   meta: {
-    version: '2.1.1',
+    version: '2.1.3',
     preciseCheck: false,
     author: 'DBM Mods',
     authorUrl: 'https://github.com/dbm-network/mods',
@@ -259,7 +259,7 @@ module.exports = {
         result = botClient.guilds.cache.size;
         break;
       case 4: // User Amount
-        result = botClient.users.cache.size;
+        result = botClient.guilds.cache.map(g => g.memberCount).reduce((a, g) => a + g);
         break;
       case 5: // Rounded Ping
         result = Math.round(botClient.ws.ping);
