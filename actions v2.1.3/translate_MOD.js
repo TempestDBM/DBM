@@ -3,11 +3,9 @@ module.exports = {
   name: 'Translate',
   section: 'Other Stuff',
   meta: {
-    version: '2.1.1',
+    version: '2.1.3',
     preciseCheck: false,
-    author: 'DBM Mods',
-    authorUrl: 'https://github.com/dbm-network/mods',
-    downloadURL: 'https://github.com/dbm-network/mods/blob/master/actions/translate_MOD.js',
+    author: 'Tempest#8741',
   },
 
   subtitle(data) {
@@ -19,11 +17,18 @@ module.exports = {
     return [data.varName, 'String'];
   },
 
-  fields: ['translateTo', 'translateMessage', 'storage', 'varName'],
+  fields: ['opcao', 'translateTo', 'translateMessage', 'storage', 'varName'],
 
   html(_isEvent, data) {
     return `
-<div style="width: 30%;">
+<div style="width: 40%;">
+    Traduzir para:
+    <select id="opcao" class="round" onchange="glob.change(this)">
+      <option value="0">Sigla</option>
+      <option value="1" selected>Idioma do membro</option>
+    </select>
+</div>
+<div id="input" style="width: 30%;">
   Translate to:<br>
   <input id="translateTo" placeholder="Should be 2 letters." class="round" type="text" maxlength="2"><br>
 </div>
@@ -48,11 +53,24 @@ module.exports = {
   init() {
     const { glob, document } = this;
     glob.variableChange(document.getElementById('storage'), 'varNameContainer');
+    glob.change = function onChange(value) {
+        if(parseInt(document.getElementById("opcao").value) ==  1) {
+          document.getElementById("input").style.display = "none";
+        }
+        if(parseInt(document.getElementById("opcao").value) ==  0) {
+          document.getElementById("input").style.display = "block";
+        }
+    }
+    glob.change();
   },
 
   async action(cache) {
     const data = cache.actions[cache.index];
-    const translateTo = this.evalMessage(data.translateTo, cache);
+    var translateTo = this.evalMessage(data.translateTo, cache);
+    if(parseInt(data.opcao, 10) == 1) {
+      translateTo = cache.interaction.locale;
+      translateTo = translateTo.toString().slice(0, 2);
+    }
     const translateMessage = this.evalMessage(data.translateMessage, cache);
     const storage = parseInt(data.storage, 10);
     const varName = this.evalMessage(data.varName, cache);
@@ -72,6 +90,5 @@ module.exports = {
     if (result) this.storeValue(result, storage, varName, cache);
     this.callNextAction(cache);
   },
-
   mod() {},
 };
