@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Action anchor MOD",
+        "file": "action_anchor_MODS.js",
+        "version": "0.2",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Add Item to List MOD",
+        "file": "add_item_to_list_MODS.js",
+        "version": "0.2",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Backup MOD",
+        "file": "backup_MODS.js",
+        "version": "0.1",
+        "author": "Tempest"
+    }
+]
