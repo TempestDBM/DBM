@@ -24,13 +24,67 @@
         "author": "XinXyla"
     },
     {
+        "name": "Canvas Create Background MOD",
+        "file": "canvas_create_background_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Canvas Create Image MOD",
+        "file": "canvas_create_image_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Canvas Crop Image MOD",
+        "file": "canvas_crop_image_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Canvas Draw Image on Image MOD",
+        "file": "canvas_draw_image_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Canvas Draw Text on Image MOD",
+        "file": "canvas_draw_text_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Canvas Edit Image Border MOD",
+        "file": "canvas_edit_image_border_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Canvas Image Filter MOD",
+        "file": "canvas_image_filter_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Canvas Image Options MOD",
+        "file": "canvas_image_options_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Canvas Send Image MOD",
+        "file": "canvas_send_image_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
         "name": "Check Item From List MOD",
         "file": "check_Item_from_list_MODS.js",
         "version": "0.1",
         "author": "XinXyla"
     },
     {
-        "name": "Check Item From List MOD",
+        "name": "Check If Member MOD",
         "file": "check_if_member_MODS.js",
         "version": "0.3",
         "author": "XinXyla"
@@ -85,7 +139,7 @@
     },
     {
         "name": "Create Server Template MOD",
-        "file": "create_server_ template_MODS.js",
+        "file": "create_server_template_MODS.js",
         "version": "0.2",
         "author": "XinXyla"
     },
@@ -114,8 +168,20 @@
         "author": "XinXyla"
     },
     {
+        "name": "Edit Embed Object MOD",
+        "file": "edit_embed_object_MODS.js",
+        "version": "0.2",
+        "author": "XinXyla"
+    },
+    {
         "name": "Edit Item from List MOD",
         "file": "edit_item_from_list_MODS.js",
+        "version": "0.2",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Edit Message MOD",
+        "file": "edit_message_MODS.js",
         "version": "0.2",
         "author": "XinXyla"
     },
@@ -330,7 +396,7 @@
         "author": "XinXyla"
     },
     {
-        "name": "Timeout Member MOD",
+        "name": "Timeout Member MOD.js",
         "file": "timeout_member_MODS.js",
         "version": "0.1",
         "author": "Tempest"
