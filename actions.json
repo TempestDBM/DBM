@@ -16,5 +16,329 @@
         "file": "backup_MODS.js",
         "version": "0.1",
         "author": "Tempest"
+    },
+    {
+        "name": "Call Command/Event MOD",
+        "file": "call_command_or_event_MODS.js",
+        "version": "0.2",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Check Item From List MOD",
+        "file": "check_Item_from_list_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Check Item From List MOD",
+        "file": "check_if_member_MODS.js",
+        "version": "0.3",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Check Info MOD",
+        "file": "check_info_MODS.js",
+        "version": "1.4",
+        "author": "XinXyla & Tempest"
+    },
+    {
+        "name": "Check Variable MOD",
+        "file": "check_variable_MODS.js",
+        "version": "1.3",
+        "author": "XinXyla & Tempest"
+    },
+    {
+        "name": "Check Variable Using Lists MOD",
+        "file": "check_variable_using_lists_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Control Variable MOD",
+        "file": "control_variable_MODS.js",
+        "version": "0.2",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Convert MOD",
+        "file": "convert_MODS.js",
+        "version": "0.8",
+        "author": "XinXyla & Tempest"
+    },
+    {
+        "name": "Convert Seconds MOD",
+        "file": "convert_seconds_MODS.js",
+        "version": "0.6",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Convert Text to List MOD",
+        "file": "convert_text_to_list_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Create Emoji URL MOD",
+        "file": "create_emoji_url_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Create Server Template MOD",
+        "file": "create_server_ template_MODS.js",
+        "version": "0.2",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Create Timestamp Discord MOD",
+        "file": "create_timestamp_discord_MODS.js",
+        "version": "0.1",
+        "author": "Tempest"
+    },
+    {
+        "name": "Difference Between Dates MOD",
+        "file": "difference_between_dates_MODS.js",
+        "version": "0.1",
+        "author": "Tempest"
+    },
+    {
+        "name": "Disconnect Member MOD",
+        "file": "disconnect_member_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Edit Buttons MOD",
+        "file": "edit_buttons_MODS.js",
+        "version": "0.3",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Edit Item from List MOD",
+        "file": "edit_item_from_list_MODS.js",
+        "version": "0.2",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Fetch Item From List MOD",
+        "file": "fetch_Item_from_list_MODS.js",
+        "version": "0.5",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Fetch User MOD",
+        "file": "fetch_user_MODS.js",
+        "version": "0.2",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Find Category MOD",
+        "file": "find_category_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Find Item in List MOD",
+        "file": "find_item_in_list_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Find Message MOD",
+        "file": "find_message_MODS.js",
+        "version": "0.2",
+        "author": "Snull & XinXyla"
+    },
+    {
+        "name": "Get Item from List MOD",
+        "file": "get_item_from_list_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Get String Length MOD",
+        "file": "get_string_length_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Go To Action Anchor MOD",
+        "file": "go_to_anchor_MODS.js",
+        "version": "0.2",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Math Operation Plus MOD",
+        "file": "math_operation_plus_MODS.js",
+        "version": "1.3",
+        "author": "XinXyla & Tempest"
+    },
+    {
+        "name": "Move Member MOD",
+        "file": "move_member_MODS.js",
+        "version": "0.2",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Multi Replace Text 2 MOD",
+        "file": "multi_replace_text_2_MODS.js",
+        "version": "0.3",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Multi Replace Text MOD",
+        "file": "multi_replace_text_MODS.js",
+        "version": "0.3",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Number of Items in a List MOD",
+        "file": "number_of_items_in_a_list_MODS.js",
+        "version": "0.1",
+        "author": "Tempest"
+    },
+    {
+        "name": "Parse From Stored Json MOD",
+        "file": "parse_from_stored_json_MODS.js",
+        "version": "0.2",
+        "author": "Tempest"
+    },
+    {
+        "name": "Remove Item from List MOD",
+        "file": "remove_item_from_list_MODS.js",
+        "version": "0.2",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Repetitions MOD",
+        "file": "repetitions_MODS.js",
+        "version": "0.1",
+        "author": "Tempest"
+    },
+    {
+        "name": "Replace Text MOD",
+        "file": "replace_text_MODS.js",
+        "version": "0.3",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Run SQL Query MOD",
+        "file": "run_sql_query_MODS.js",
+        "version": "0.7",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Send Message",
+        "file": "send_message.js",
+        "version": "0.7",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Set Member Channel Multi Perms MOD",
+        "file": "set_member_channel_multi_perms_MODS.js",
+        "version": "0.3",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Set Role Channel Multi Perms MOD",
+        "file": "set_role_channel_multi_perms _MODS.js",
+        "version": "0.3",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Set Slowmode MOD",
+        "file": "set_slowmode_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Sort List MOD",
+        "file": "sort_list_MODS.js",
+        "version": "0.2",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Store Bot Client Info MOD",
+        "file": "store_bot_client_info_MODS.js",
+        "version": "0.4",
+        "author": "Snull & XinXyla"
+    },
+    {
+        "name": "Store Category Info MOD",
+        "file": "store_category_info_MODS.js",
+        "version": "0.5",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Store Date Info Plus MOD",
+        "file": "store_date_info_plus_MODS.js",
+        "version": "0.3",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Store Date Timezone Info Plus MOD",
+        "file": "store_date_timezone_info_plus_MODS.js",
+        "version": "0.4",
+        "author": "XinXyla & Tempest"
+    },
+    {
+        "name": "Store interaction Info MOD",
+        "file": "store_interaction_info_MODS.js",
+        "version": "0.2",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Store Member Info MOD",
+        "file": "store_member_info_MODS.js",
+        "version": "1.0",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Store Message Info MOD",
+        "file": "store_message_info_MODS.js",
+        "version": "1.4",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Store Parameter File Info MOD",
+        "file": "store_parameter_file_info_MODS.js",
+        "version": "0.3",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Store Role Info MOD",
+        "file": "store_role_info_MODS.js",
+        "version": "0.4",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Store Server Info MOD",
+        "file": "store_server_info_MODS.js",
+        "version": "1.0",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Store Voice Channel Info MOD",
+        "file": "store_voice_channel_info_MODS.js",
+        "version": "0.5",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Text MOD",
+        "file": "text_MODS.js",
+        "version": "0.2",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Text MOD",
+        "file": "timeout_member_MODS.js",
+        "version": "0.1",
+        "author": "Tempest"
+    },
+    {
+        "name": "Translate MOD",
+        "file": "translate_MODS.js",
+        "version": "0.3",
+        "author": "Tempest"
     }
 ]
