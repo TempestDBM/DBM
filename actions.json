@@ -1,17 +1,5 @@
 [
     {
-        "name": "aaa dbmmods dependencies MOD",
-        "file": "aaa_dbmmods_dependencies_MOD.js",
-        "version": "2.1.5",
-        "author": "DBM Mods"
-    },
-    {
-        "name": "aaa wrexmods dependencies MOD",
-        "file": "aaa_wrexmods_dependencies_MOD.js",
-        "version": "2.1.5",
-        "author": "DBM Mods"
-    },
-    {
         "name": "Action Anchor MOD",
         "file": "action_anchor_MODS.js",
         "version": "0.2",
