@@ -60,6 +60,12 @@
         "author": "XinXyla"
     },
     {
+        "name": "Canvas Generate Progress Bar MOD",
+        "file": "canvas_generate_progress_bar_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
         "name": "Canvas Image Filter MOD",
         "file": "canvas_image_filter_MODS.js",
         "version": "0.1",
@@ -68,6 +74,12 @@
     {
         "name": "Canvas Image Options MOD",
         "file": "canvas_image_options_MODS.js",
+        "version": "0.1",
+        "author": "XinXyla"
+    },
+    {
+        "name": "Canvas Save Image MOD",
+        "file": "canvas_save_image_MODS.js",
         "version": "0.1",
         "author": "XinXyla"
     },
